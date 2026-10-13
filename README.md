@@ -1,5 +1,7 @@
 # Anti-Fingerprint Browser
 
+10/13 update: Very cool shit in the works. Gonna be building mouse path generation into the browser along with drag capabilities, tons of new page observe methods, and potentially an MCP for Claude Code. Feature requests can be made in issues.
+
 A Chromium build that lets you control what your browser reports about your machine (GPU, canvas, audio, fonts, screen, hardware, timezone) instead of providing a stable, unique fingerprint to every site you visit.
 
 Spoofing happens inside the browser, not through injected JavaScript, so there's no `Object.defineProperty` wrapper for a page to detect. Identities are either random per launch or reproducible from an integer seed.
