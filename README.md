@@ -1,6 +1,6 @@
 # Chromeleon Browser
 
-10/16 update: Gonna be building mouse path generation into the browser along with drag capabilities, tons of new page observe methods, and potentially an MCP for Claude Code. Feature requests can be made in issues. Linux build in the next few weeks potentially. v155 taking longer than expected. Might not get out till Sunday because I hit my limits on Claude this week and I'm a monkey who can't work on my own project without AI.
+10/16 update: Gonna be building mouse path generation into the browser along with drag capabilities, tons of new page observe methods, and potentially an MCP for Claude Code. Feature requests can be made in issues. Linux build in the next few weeks potentially. v155 taking longer than expected.
 
 A Chromium build that lets you control what your browser reports about your machine (GPU, canvas, audio, fonts, screen, hardware, timezone) instead of providing a stable, unique fingerprint to every site you visit.
 
